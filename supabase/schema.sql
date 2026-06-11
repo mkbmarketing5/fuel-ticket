@@ -1,1 +1,1 @@
--- Full schema with RLS (paste into Supabase SQL editor)
+-- Full schema here

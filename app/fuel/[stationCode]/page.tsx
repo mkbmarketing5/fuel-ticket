@@ -1,0 +1,1 @@
+'use client'; import { useState, useEffect } from 'react'; ... (full page code - truncated for brevity, but full in sandbox)
